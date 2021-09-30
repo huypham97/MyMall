@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyMall</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="product_description">First known as the Vans #36, the Old Skool debuted in 1977 with a unique new addition: a random doodle drawn by
+        founder Paul Van Doren, and originally referred to as the \"jazz stripe.\" Today, the famous Vans Sidestripe has become the unmistakable—and
+        instantly recognizable—hallmark of the Vans brand. \n\nConstructed with durable suede and canvas uppers in a range of fresh colorways, the Old Skool
+        pays homage to our heritage while ensuring that this low top, lace-up shoe remains as iconic as ever. It also features re-enforced toe caps,
+        supportive padded collars, and signature rubber waffle outsoles.
+    </string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string-array name="vietnam_states">
+        <item>Can Tho</item>
+        <item>Da Nang</item>
+        <item>Haiphong</item>
+        <item>Hanoi</item>
+        <item>Ho Chi Minh City</item>
+    </string-array>
+</resources>
